@@ -1,5 +1,5 @@
 # INFO 441 - Dawg Network
-Eric Latham, Jared Lim, Justin Zeng, Dhruv Karia
+Jared Lim, Eric Latham, Justin Zeng, Dhruv Karia
 
 # Project Description
 Our team plans to build a real-time networking chat application where users can login / signup, invite other users, like posts, and post comments on each others' profiles.
