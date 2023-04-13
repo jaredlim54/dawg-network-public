@@ -1,0 +1,4 @@
+node_modules/
+
+# constants used for mongo connection to protect password
+privateConstants.js
